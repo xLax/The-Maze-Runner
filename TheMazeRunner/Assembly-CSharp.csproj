@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\PlayerMove.cs" />
+    <Compile Include="Assets\Scripts\StartGameBoxBehavior.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/Repositories/try/TheMazeRunner/TheMazeRunner/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>

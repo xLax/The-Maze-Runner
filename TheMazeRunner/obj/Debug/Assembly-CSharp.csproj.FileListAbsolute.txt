@@ -165,4 +165,3 @@ D:\Repositories\try\TheMazeRunner\TheMazeRunner\obj\Debug\Assembly-CSharp.csproj
 D:\Repositories\try\TheMazeRunner\TheMazeRunner\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 D:\Repositories\try\TheMazeRunner\TheMazeRunner\obj\Debug\Assembly-CSharp.dll
 D:\Repositories\try\TheMazeRunner\TheMazeRunner\obj\Debug\Assembly-CSharp.pdb
-D:\Repositories\try\TheMazeRunner\TheMazeRunner\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
