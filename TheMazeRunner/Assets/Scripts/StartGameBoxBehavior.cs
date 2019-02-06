@@ -4,9 +4,12 @@ using UnityEngine;
 
 public class StartGameBoxBehavior : MonoBehaviour {
 
+    public Transform gameManager;
+    GameBehavior script;
+
 	// Use this for initialization
 	void Start () {
-		
+        script = gameManager.GetComponent<GameBehavior>();
 	}
 	
 	// Update is called once per frame
@@ -18,7 +21,10 @@ public class StartGameBoxBehavior : MonoBehaviour {
     {
         if(other.gameObject.tag == "Player")
         {
-            Destroy(this.gameObject);
+            if (!script.isStarted)
+            {
+                script.startGame();
+            }
         }
     }
 }
