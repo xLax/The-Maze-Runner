@@ -108,7 +108,9 @@
     <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
     <Compile Include="Assets\Scripts\EndGameBoxBehavior.cs" />
+    <Compile Include="Assets\Scripts\EndLevel2Box.cs" />
     <Compile Include="Assets\Scripts\GameBehavior.cs" />
+    <Compile Include="Assets\Scripts\MapStandBehavior.cs" />
     <Compile Include="Assets\Scripts\PlayerMove.cs" />
     <Compile Include="Assets\Scripts\StartGameBoxBehavior.cs" />
     <None Include="Assets\NatureStarterKit2\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />

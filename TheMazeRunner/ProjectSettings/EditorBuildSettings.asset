@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Start Menu.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LosingScreen.unity
     guid: 58a7854c6b11de246a4839ea4f0f2594
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 793e1c0209e289b42bd6ff635c9d6cc1
   m_configObjects: {}

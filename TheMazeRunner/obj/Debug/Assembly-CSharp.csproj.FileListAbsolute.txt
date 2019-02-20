@@ -166,3 +166,4 @@ D:\Repositories\try\TheMazeRunner\TheMazeRunner\obj\Debug\Assembly-CSharp.csproj
 D:\Repositories\try\TheMazeRunner\TheMazeRunner\obj\Debug\Assembly-CSharp.dll
 D:\Repositories\try\TheMazeRunner\TheMazeRunner\obj\Debug\Assembly-CSharp.pdb
 D:\Repositories\try\TheMazeRunner\TheMazeRunner\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Repositories\try\TheMazeRunner\TheMazeRunner\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
